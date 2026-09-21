@@ -22,8 +22,10 @@ I work at the intersection of **finance, risk analysis, technology and artificia
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkarmacy&repo=declarafy" />
 </a>
 
-### 📊 Dobrofsky Risk Analyzer
-Open-source financial risk analysis platform focused on:
+### 📊 Dobrofsky Risk Analyzer — Teoría de Dobrofsky
+Open-source financial risk analysis platform built as the experimental implementation of the **Dobrofsky Theory (Teoría de Dobrofsky)**, a research framework developed by Christian Dobrofsky for financial distress analysis, early-warning signals and explainable corporate risk assessment.
+
+The framework is currently under development, testing and validation, and focuses on:
 
 - Financial distress analysis
 - Early-warning signals
@@ -67,7 +69,7 @@ I'm especially interested in combining traditional financial analysis with moder
 
 | Project | Focus |
 |---|---|
-| [Dobrofsky Risk Analyzer](https://github.com/kkarmacy/dobrofsky-risk-analyzer) | Financial risk, distress analysis and stress testing |
+| [Dobrofsky Risk Analyzer](https://github.com/kkarmacy/dobrofsky-risk-analyzer) | Teoría de Dobrofsky: financial distress, early-warning signals and stress testing |
 | [Declarafy](https://github.com/kkarmacy/declarafy) | AI-powered TaxTech for Peru |
 | [unChain](https://github.com/kkarmacy/unChain) | Technology and experimental development |
 
