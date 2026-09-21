@@ -10,6 +10,15 @@
 
 I work at the intersection of **finance, risk analysis, technology and artificial intelligence**, building practical tools for companies, investors and entrepreneurs.
 
+**ES:** Consultor financiero especializado en finanzas corporativas, análisis de riesgo, IA y TaxTech, con proyectos orientados a empresas y profesionales en LATAM.
+
+---
+
+## 📍 Project Status
+
+- **Dobrofsky Risk Analyzer:** Active research — development, backtesting and validation
+- **Declarafy:** Active product — production and continuous development
+
 ---
 
 ## 🚀 Featured Projects
@@ -97,3 +106,5 @@ If one of my projects is useful to you, feel free to explore the repositories, o
 
 - **GitHub:** [@kkarmacy](https://github.com/kkarmacy)
 - **Declarafy:** [declarafy.com](https://declarafy.com)
+- **Dobrofsky Risk Analyzer:** [Repository](https://github.com/kkarmacy/dobrofsky-risk-analyzer)
+- **Teoría de Dobrofsky:** [Research documentation](https://github.com/kkarmacy/dobrofsky-risk-analyzer/blob/main/docs/DOBROFSKY_THEORY.md)
